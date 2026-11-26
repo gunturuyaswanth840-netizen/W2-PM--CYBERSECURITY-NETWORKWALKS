@@ -300,17 +300,23 @@ All observations in this report are based on the commands and results obtained d
 
 ---
 
-## Evidence
+### Evidence
 
-### WHOIS
-![WHOIS](./evidence/Screenshot_2026-11-26_03-24-00.png)
+### Evidence
 
-![nslookup](./evidence/Screenshot_2026-11-26_03-24-30.png)
+![WHOIS](./Screenshot_2026-11-26_03-24-00.png)
 
-![DNSRecon](./evidence/Screenshot_2026-11-26_03-25-50.png)
+### Evidence
 
-![WhatWeb and cURL](./evidence/Screenshot_2026-11-26_03-35-04.png)
+![nslookup](./Screenshot_2026-11-26_03-24-30.png)
 
-![WAFW00F](./evidence/Screenshot_2026-11-26_03-45-20.png)
+### Evidence
+![DNSRecon](./Screenshot_2026-11-26_03-25-50.png)
+### Evidence
+![WhatWeb and cURL](./Screenshot_2026-11-26_03-35-04.png)
+### Evidence
+![WAFW00F](./Screenshot_2026-11-26_03-45-20.png)
+### Evidence
+![Zenmap](./Screenshot_2026-11-26_04-07-36.png)
 
-![Zenmap](./evidence/Screenshot_2026-11-26_04-07-36.png)
+
