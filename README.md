@@ -303,20 +303,13 @@ All observations in this report are based on the commands and results obtained d
 ## Evidence
 
 ### WHOIS
-![WHOIS](evidence/Screenshot_2026-11-26_03-24-30.png)
+![WHOIS](./evidence/Screenshot_2026-11-26_03-24-00.png)
+![nslookup](./evidence/Screenshot_2026-11-26_03-24-30.png)
 
-### nslookup
-![nslookup](evidence/Screenshot_2026-11-26_03-24-00.png)
+![DNSRecon](./evidence/Screenshot_2026-11-26_03-25-50.png)
 
-### DNSRecon
-![DNSRecon](evidence/Screenshot_2026-11-26_03-25-50.png)
+![WhatWeb and cURL](./evidence/Screenshot_2026-11-26_03-35-04.png)
 
-### WhatWeb and cURL
-![WhatWeb and cURL](evidence/Screenshot_2026-11-26_03-35-04.png)
+![WAFW00F](./evidence/Screenshot_2026-11-26_03-45-20.png)
 
-### WAFW00F
-![WAFW00F](evidence/Screenshot_2026-11-26_03-45-20.png)
-
-### Zenmap
-![Zenmap](evidence/Screenshot_2026-11-26_04-07-36.png)
-```
+![Zenmap](./evidence/Screenshot_2026-11-26_04-07-36.png)
