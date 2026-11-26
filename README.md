@@ -51,7 +51,8 @@ whois networkwalks.com
 
 ### Evidence
 
-![WHOIS](./Screenshot_2026-11-26_03-24-00.png)
+
+![nslookup](./Screenshot_2026-11-26_03-24-30.png)
 ---
 
 ## 2. nslookup
@@ -88,7 +89,7 @@ ns6135.hostgator.com
 ### Evidence
 
 
-![nslookup](./Screenshot_2026-11-26_03-24-30.png)
+![WHOIS](./Screenshot_2026-11-26_03-24-00.png)
 ---
 
 ## 3. DNSRecon
@@ -302,12 +303,12 @@ All observations in this report are based on the commands and results obtained d
 ### Evidence
 
 ### WHOIS
-
-![WHOIS](./Screenshot_2026-11-26_03-24-00.png)
+![nslookup](./Screenshot_2026-11-26_03-24-30.png)
 
 ### nslookup
 
-![nslookup](./Screenshot_2026-11-26_03-24-30.png)
+
+![WHOIS](./Screenshot_2026-11-26_03-24-00.png)
 
 ### DNSRecon
 ![DNSRecon](./Screenshot_2026-11-26_03-25-50.png)
