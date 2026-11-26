@@ -304,6 +304,7 @@ All observations in this report are based on the commands and results obtained d
 
 ### WHOIS
 ![WHOIS](./evidence/Screenshot_2026-11-26_03-24-00.png)
+
 ![nslookup](./evidence/Screenshot_2026-11-26_03-24-30.png)
 
 ![DNSRecon](./evidence/Screenshot_2026-11-26_03-25-50.png)
