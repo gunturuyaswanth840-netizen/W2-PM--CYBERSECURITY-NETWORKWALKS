@@ -51,8 +51,7 @@ whois networkwalks.com
 
 ### Evidence
 
-![WHOIS Results](evidence/01-whois.png)
-
+![WHOIS](./Screenshot_2026-11-26_03-24-00.png)
 ---
 
 ## 2. nslookup
@@ -88,8 +87,8 @@ ns6135.hostgator.com
 
 ### Evidence
 
-![nslookup Results](evidence/02-nslookup.png)
 
+![nslookup](./Screenshot_2026-11-26_03-24-30.png)
 ---
 
 ## 3. DNSRecon
@@ -123,7 +122,7 @@ The target IP identified was:
 
 ### Evidence
 
-![DNSRecon Results](evidence/03-dnsrecon.png)
+![DNSRecon](./Screenshot_2026-11-26_03-25-50.png)
 
 ---
 
@@ -173,7 +172,7 @@ The response headers also contained WordPress-related REST API links.
 
 ### Evidence
 
-![WhatWeb and cURL Results](evidence/04-whatweb-curl.png)
+![WhatWeb and cURL](./Screenshot_2026-11-26_03-35-04.png)
 
 > **Note:** WhatWeb and cURL are intentionally shown together in one screenshot.
 
@@ -203,7 +202,7 @@ The scan used 2 requests.
 
 ### Evidence
 
-![WAFW00F Results](evidence/05-wafw00f.png)
+![WAFW00F](./Screenshot_2026-11-26_03-45-20.png)
 
 ---
 
@@ -246,7 +245,7 @@ Regular scan
 
 ### Evidence
 
-![Zenmap Scan Results](evidence/06-zenmap.png)
+![Zenmap](./Screenshot_2026-11-26_04-07-36.png)
 
 ---
 
@@ -302,21 +301,21 @@ All observations in this report are based on the commands and results obtained d
 
 ### Evidence
 
-### Evidence
+### WHOIS
 
 ![WHOIS](./Screenshot_2026-11-26_03-24-00.png)
 
-### Evidence
+### nslookup
 
 ![nslookup](./Screenshot_2026-11-26_03-24-30.png)
 
-### Evidence
+### DNSRecon
 ![DNSRecon](./Screenshot_2026-11-26_03-25-50.png)
-### Evidence
+### whatweb and curl
 ![WhatWeb and cURL](./Screenshot_2026-11-26_03-35-04.png)
-### Evidence
+### WAFW00F
 ![WAFW00F](./Screenshot_2026-11-26_03-45-20.png)
-### Evidence
+### Zenmap
 ![Zenmap](./Screenshot_2026-11-26_04-07-36.png)
 
 
