@@ -300,16 +300,23 @@ All observations in this report are based on the commands and results obtained d
 
 ---
 
-# Evidence
+## Evidence
 
-All screenshots used in this project are stored in the `evidence/` directory.
+### WHOIS
+![WHOIS](evidence/Screenshot_2026-11-26_03-24-30.png)
 
-```text
-evidence/
-├── 01-whois.png
-├── 02-nslookup.png
-├── 03-dnsrecon.png
-├── 04-whatweb-curl.png
-├── 05-wafw00f.png
-└── 06-zenmap.png
+### nslookup
+![nslookup](evidence/Screenshot_2026-11-26_03-24-00.png)
+
+### DNSRecon
+![DNSRecon](evidence/Screenshot_2026-11-26_03-25-50.png)
+
+### WhatWeb and cURL
+![WhatWeb and cURL](evidence/Screenshot_2026-11-26_03-35-04.png)
+
+### WAFW00F
+![WAFW00F](evidence/Screenshot_2026-11-26_03-45-20.png)
+
+### Zenmap
+![Zenmap](evidence/Screenshot_2026-11-26_04-07-36.png)
 ```
